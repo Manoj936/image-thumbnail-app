@@ -1,4 +1,4 @@
-🖼️ Automating Image Resizing with AWS Lambda, S3, and Sharp
+# H1 🖼️ Automating Image Resizing with AWS Lambda, S3, and Sharp
 
 
 In modern applications, image optimization is crucial for improving performance and user experience. Whether you're building an e-commerce platform, a social media app, or a content management system, resizing images efficiently can make a significant difference.
